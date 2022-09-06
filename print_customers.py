@@ -25,16 +25,4 @@ def main():
         print("Phone:", Phone)
         enter = input()
 
-
-
-
-
-
-
-
-
-
-
-
-
 main()
